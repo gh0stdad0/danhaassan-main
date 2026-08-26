@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Muhammad Aliyu Danhassan!**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer+%F0%9F%9A%80;Digital+Marketer+%F0%9F%94%8C)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Tech+Entrepreneur+%F0%9F%9A%80;Software+Developer+%F0%9F%92%BB;Cybersecurity+Expert+%F0%9F%94%90;AI+Enthusiast+%F0%9F%A4%96;Finanical+Trader+%F0%9F%93%88)
 
 [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danhaassan.com/)
 ![Profile Views](https://komarev.com/ghpvc/?username=adamucreates&color=61dafb&style=for-the-badge)
