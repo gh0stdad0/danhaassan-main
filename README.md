@@ -70,25 +70,7 @@
 
 </div>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adamulab&theme=dark)
-
-| Stats | Top Languages |
-|---|---|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamulab&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamulab&layout=compact&theme=radical) |
-
-| Productive Time | Repos Per Language | Most Used |
-|---|---|---|
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=odunsih1&theme=dark&utcOffset=8) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adamulab&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adamulab&theme=dark) |
-
-</div>
-
----
 
 ## 📫 Contact
 
